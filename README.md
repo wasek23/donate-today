@@ -7,6 +7,7 @@
     Design With HTML5 & CSS3
     6 Sections with Header & Footer
     Plan Section
+    Events Section
     Newsletter Section
     Google fonts used
 
